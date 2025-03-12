@@ -1,0 +1,28 @@
+
+Alias name: key-1
+Creation date: 09-Mar-2025
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=rishiraj, OU=N/A, O=N/A, L=Udaipur, ST=Rajasthan, C=IN
+Issuer: CN=rishiraj, OU=N/A, O=N/A, L=Udaipur, ST=Rajasthan, C=IN
+Serial number: 957f87fbe655a5aa
+Valid from: Sun Mar 09 00:22:07 IST 2025 until: Thu Jul 25 00:22:07 IST 2052
+Certificate fingerprints:
+         SHA1: 36:96:FB:DA:E1:AF:06:8D:46:28:E9:1D:C1:41:1B:DE:7C:CE:07:16
+         SHA256: 25:43:3E:82:91:57:1A:5D:3E:23:8A:AD:70:F1:8D:83:3A:41:1D:E4:C6:CE:22:26:37:AF:99:6B:A2:94:66:36
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: C0 98 1E 16 08 22 50 AE   7C 10 6F BF 2F 64 B0 46  ....."P...o./d.F
+0010: BA FC A9 8B                                        ....
+]
+]
+
+PS C:\Users\hp\OneDrive\Desktop\react-native-google-signin-main\android> 
